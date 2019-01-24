@@ -1,0 +1,10 @@
+
+public class Voiture {
+
+	public String nom;
+	public int nombreDePortes;
+	public int nombreDePlaces;
+	public String moteur;
+	public String couleur;
+
+}
